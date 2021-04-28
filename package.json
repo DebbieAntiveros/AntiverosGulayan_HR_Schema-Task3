@@ -1,0 +1,25 @@
+{
+  "name": "antiverosgulayan_hr_schema-task3",
+  "version": "1.0.0",
+  "description": "task3",
+  "main": "index.js",
+  "scripts": {
+    "test": "task3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebbieAntiveros/AntiverosGulayan_HR_Schema-Task3.git"
+  },
+  "keywords": [
+    "task3"
+  ],
+  "author": "AntiverosGulayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DebbieAntiveros/AntiverosGulayan_HR_Schema-Task3/issues"
+  },
+  "homepage": "https://github.com/DebbieAntiveros/AntiverosGulayan_HR_Schema-Task3#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
